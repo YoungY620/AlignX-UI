@@ -10,9 +10,11 @@
   },
   "dependencies": {
     "@ant-design/icons": "^5.3.7",
+    "@ant-design/pro-chat": "^1.15.2",
     "@tanstack/react-query": "^5.37.1",
-    "@web3modal/wagmi": "^4.2.1",
+    "@web3modal/wagmi": "^5.0.11",
     "antd": "^5.17.3",
+    "antd-style": "^3.6.2",
     "axios": "^1.7.2",
     "encoding": "^0.1.13",
     "next": "14.2.3",

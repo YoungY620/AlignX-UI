@@ -14,18 +14,6 @@ export const mockTopic = [
         "title": "Donald Trump",
         "description": "The 45th president of the United States",
     },
-    {
-        "title": "Harry Potter",
-        "description": "A fictional character and the protagonist of J. K. Rowling's Harry Potter series.",
-    },
-    {
-        "title": "Elon Musk",
-        "description": "An entrepreneur and business magnate. He is the founder, CEO, and chief engineer/designer of SpaceX; ",
-    },
-    {
-        "title": "Ironman",
-        "description": "A fictional superhero appearing in American comic books published by Marvel Comics. ",
-    },
 ];
 
 export class LeaderboardItem {
